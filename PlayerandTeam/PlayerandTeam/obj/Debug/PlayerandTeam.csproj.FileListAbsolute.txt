@@ -1,0 +1,8 @@
+D:\simplilearn\final-project\PlayerandTeam\PlayerandTeam\bin\Debug\PlayerandTeam.exe.config
+D:\simplilearn\final-project\PlayerandTeam\PlayerandTeam\bin\Debug\PlayerandTeam.exe
+D:\simplilearn\final-project\PlayerandTeam\PlayerandTeam\bin\Debug\PlayerandTeam.pdb
+D:\simplilearn\final-project\PlayerandTeam\PlayerandTeam\obj\Debug\PlayerandTeam.csproj.AssemblyReference.cache
+D:\simplilearn\final-project\PlayerandTeam\PlayerandTeam\obj\Debug\PlayerandTeam.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\final-project\PlayerandTeam\PlayerandTeam\obj\Debug\PlayerandTeam.csproj.CoreCompileInputs.cache
+D:\simplilearn\final-project\PlayerandTeam\PlayerandTeam\obj\Debug\PlayerandTeam.exe
+D:\simplilearn\final-project\PlayerandTeam\PlayerandTeam\obj\Debug\PlayerandTeam.pdb
